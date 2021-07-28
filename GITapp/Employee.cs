@@ -8,5 +8,9 @@ namespace GITapp
 {
     class Employee
     {
+        public void display()
+        {
+            Console.WriteLine("hola");
+        }
     }
 }
