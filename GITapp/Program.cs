@@ -7,6 +7,7 @@ namespace GITapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello and Welcome");
+             Console.WriteLine("New Line added");
         }
     }
 }
