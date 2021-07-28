@@ -10,6 +10,7 @@ namespace GITapp
              Console.WriteLine("New Line 1 added");
             Console.WriteLine("New line 2");
             Console.WriteLine("hii arnab hehehe");
+            Console.WriteLine("should i write wrong code? error wala hehe");
         }
     }
 }
