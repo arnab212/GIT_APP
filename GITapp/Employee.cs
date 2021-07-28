@@ -12,5 +12,9 @@ namespace GITapp
         {
             Console.WriteLine("hola");
         }
+          public void disp()
+        {
+            Console.WriteLine("this is from sit ");
+        }
     }
 }
